@@ -24,5 +24,6 @@
     "clean": {
       "cache": false
     }
-  }
+  },
+  "globalDependencies": ["backend", "frontend", "shared"]
 }
